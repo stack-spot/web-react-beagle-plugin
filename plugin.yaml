@@ -1,0 +1,7 @@
+name: beagle
+description: Add Beagle(a server driven UI solution) to React stack
+types:
+  - app
+tags:
+  - "orange-stackfront-web-scaffold"
+  - "orange-stackfront-web-beagle-plugin"

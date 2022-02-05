@@ -1,0 +1,13 @@
+{
+  "scripts": {
+  },
+  "dependencies": {
+    "@zup-it/beagle-react": "^1.10.2"
+  },
+  "devDependencies": {
+  {% if sample %}
+    "copy-webpack-plugin": "^6.0.3"
+  {% endif %}
+  },
+  "lint-staged": {}
+}
