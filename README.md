@@ -1,4 +1,4 @@
-- **Descrição:** O O plug-in `web-react-beagle-plugin` adicione o Beagle (uma solução de interface do usuário orientada por servidor) à pilha React.
+- **Descrição:** O plug-in `web-react-beagle-plugin` adicione o Beagle (uma solução de interface do usuário orientada por servidor) à pilha React.
 - **Categoria:** Frontend
 - **Stack:** React.
 - **Criado em:** 01/02/2022. 
