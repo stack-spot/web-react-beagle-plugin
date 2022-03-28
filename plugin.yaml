@@ -1,5 +1,5 @@
 name: web-react-beagle-plugin
-description: Adicione o Beagle (uma solução de interface do usuário orientada por servidor) à pilha React
+description: Adicione o Beagle (uma solução de interface do usuário orientada por servidor) à stack React
 
 tags:
   - "orange-stackfront-web-scaffold"
