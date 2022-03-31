@@ -1,0 +1,1 @@
+O **web-react-beagle-plugin** adiciona uma plataforma Server-Driven para iOS, Android e Web que facilita a construção de telas por meio de um backend, permitindo que telas e fluxos nativos sejam alterados utilizando apenas JSON.
