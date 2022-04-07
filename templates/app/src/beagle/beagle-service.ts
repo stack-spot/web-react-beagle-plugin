@@ -1,6 +1,6 @@
 import { createBeagleUIService } from '@zup-it/beagle-react'
 
 export default createBeagleUIService({
-  baseUrl: '',
+  baseUrl: '{{inputs.backendPath}}',
   components: {}
 })

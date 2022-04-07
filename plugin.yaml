@@ -9,6 +9,12 @@ tags:
 types:
   - app
 
+inputs:
+  - label: What path is the backend running on?
+    type: text
+    name: backendPath
+    default: http://localhost:8080
+
 # Nome com formatação livre que será exibido no portal.
 displayName: Beagle
 

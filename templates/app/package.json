@@ -2,7 +2,7 @@
   "scripts": {
   },
   "dependencies": {
-    "@zup-it/beagle-react": "^1.10.2"
+    "@zup-it/beagle-react": "^2.0.0"
   },
   "devDependencies": {
   {% if sample %}
