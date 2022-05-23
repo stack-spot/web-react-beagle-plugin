@@ -1,14 +1,22 @@
 #### Instalação
-Para fazer o download do **web-react-beagle-plugin**, siga os passos abaixo:
+Para utilizar o plugin **web-react-beagle-plugin**, siga os passos abaixo:
 
-**Passo 1.** Copie e cole a URL abaixo no seu navegador/terminal:
-```
-https://github.com/stack-spot/web-react-beagle-plugin.git
+**Passo 1.** Na pasta da aplicação react criada com o STK CLI, abra o terminal e execute o comando abaixo para adicionar o plugin do Beagle:
+```bash
+stk apply plugin uxservices-web-react/web-react-beagle-plugin
 ```
 
-**Passo 2.** Após adicionar o plugin, execute o comando abaixo para baixar a lib no seu projeto :
+### **Inputs**
+Os inputs necessários para utilizar o plugin são:
 
+| **Campo** | **Valor** | **Descrição** |
+| :--- | :--- | :--- |
+| backendPath | http://localhost:8080 | Url do servidor do backend do Beagle |
+
+**Passo 2.** Após adicionar o plugin, execute o comando abaixo para baixar a lib no seu projeto:
+
+```bash
+npm install
 ```
-  npm install
-```
-Para visualizar a documentação do Beagle acesse: https://usebeagle.io/
+
+Para visualizar a documentação do Beagle acesse [**aqui**](https://usebeagle.io/).
