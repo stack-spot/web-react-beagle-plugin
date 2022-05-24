@@ -17,7 +17,7 @@ displayName: Beagle
 # caso a picture esteja fora do repo colocar uma url externa
 # Categorias disponíveis:
 # [sre, frontend, backend, fullStack, analytics]
-picture: "logo.svg"
+picture: "logo.png"
 
 # Especificar a categoria da stack.
 # Plugin podem perceber a qualquer category
