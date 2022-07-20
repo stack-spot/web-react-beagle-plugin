@@ -8,12 +8,12 @@
 
 ## **Visão Geral**
 
-O **web-react-beagle-plugin** adiciona uma plataforma Server-Driven para iOS, Android e Web que facilita a construção de telas por meio de um backend, permitindo que telas e fluxos nativos sejam alterados utilizando apenas JSON.
+O **web-react-beagle-plugin** adiciona uma plataforma **Server-Driven** para iOS, Android e Web que facilita a construção de telas por meio de um Backend. Isso permite com que telas e fluxos nativos sejam alterados utilizando apenas **JSON**.
 
 ## **Uso**
 
 ### **Pré-requisitos**
-Para utilizar este Plugin, é necessário ter uma Stack web-react importada pelo **`STK CLI`**.
+Para utilizar este Plugin, é necessário ter uma Stack **`web-react`** importada pelo **`STK CLI`**.
 
 #### Instalação
 Para fazer o download do **web-react-beagle-plugin**, siga os passos abaixo:
@@ -28,4 +28,4 @@ https://github.com/stack-spot/web-react-beagle-plugin.git
 ```
   npm install
 ```
-Para mais informações sobre Beagle, acesse a [**documentação**](https://usebeagle.io/).
+Para mais informações sobre Beagle, acesse a documentação [**aqui**](https://usebeagle.io/).
