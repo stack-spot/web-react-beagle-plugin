@@ -29,3 +29,4 @@ https://github.com/stack-spot/web-react-beagle-plugin.git
   npm install
 ```
 Para mais informações sobre Beagle, acesse a documentação [**aqui**](https://usebeagle.io/).
+
